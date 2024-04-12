@@ -53,7 +53,7 @@ export function Observer({ children, onContentEndVisible }: Props) {
 
 # Завдання 2
 
-Ваше завдання – додати типи для наступних елементів коду:
+Ваше завдання - додати типи для наступних елементів коду:
 
 RequestStep: Це рядковий літерал.
 
